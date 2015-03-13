@@ -1,0 +1,1 @@
+Street Fighter 2 Turbo is a fantastic game. What if we create an arcade ROM hack ('remix') which removes randomness, rebalances the cast slightly, and alters palettes for a fresh new look at a 20 year old game?

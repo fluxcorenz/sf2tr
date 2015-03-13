@@ -3,7 +3,10 @@ Street Fighter 2 Turbo Remix
 
 by fluxcore
 
-Project page: http://code.google.com/p/sf2tr
+Project page: https://github.com/fluxcorenz/sf2tr
+
+Manifesto:
+Street Fighter 2 Turbo is a fantastic game. What if we create an arcade ROM hack ('remix') which removes randomness, rebalances the cast slightly, and alters palettes for a fresh new look at a 20 year old game?
 
 
 Required SF2T ROM set is 921202 ETC (World):
